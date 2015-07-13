@@ -4,17 +4,21 @@ level: 1
 languages: javascript
 ---
 #Variables and Assignment
-The interpreter has been great for doing little calculations, but it doesn't remember values from line to line. To help it remember, we will tell it we're making a variable.
+The interpreter has been great for doing little calculations like `2*3`, but it doesn't remember values from line to line. 
 
-We can think of a variable like a bucket. Inside of the bucket we can store data. The bucket has a name we declare, and we assign data(a value) to it using an '=' sign.
+To help it remember, we will need to make a variable.We can think of a variable like a bucket. Inside of the bucket we can store data. Variables will store data that we can access at any time.
+
+To use a variable, you need to make a new name, and assign a value to it by using an '=' sign.
 
 You need to declare variables explicitly in JavaScript with the var keyword like this:
 ```
 >var students = 30
 ```
-`var` lets JavaScript know that you've just made a variable!
+* `var` lets JavaScript know that you've just made a variable!
+* The name of the variable is "students"
+* The value assigned to students is 30.
 
-See the value of the variable by calling its name
+Anytime we want to see what's inside the bucket, the value of a variable, we just need to call the variabe's name. 
 ```
 >students
 30
