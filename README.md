@@ -1,8 +1,4 @@
----
-tags: cssi, javascript
-level: 1
-languages: javascript
----
+
 #Variables and Assignment
 The interpreter has been great for doing little calculations like `2*3`, but it doesn't remember values from line to line. 
 
