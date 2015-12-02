@@ -73,3 +73,5 @@ var number = 30; // what does the number mean?
 var studentCount = 30; // this one is pretty clear!
 ```
 For variable names consisting of multiple words, we can use camelCase or snake_case. Usually, javascript developers use camelCase (called camelCase  becauseTheLettersMakeHumpsInTheName). In python, developers like snake_case (which sorta looks like a snake, if you squint.) snake_case is slightly easier to read, but it's most important to follow the established conventions, and especially to be consistent within a project. That way, other programmers can look at a word and tell in an instant whether it is a variable, or something else!
+
+<a href='https://learn.co/lessons/cssi-2-javascript-variables-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
